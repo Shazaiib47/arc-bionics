@@ -6,7 +6,7 @@ body {
     line-height: 1.5;
     padding: 0;
     margin: 0;
-    background-color: #f4f4f4;
+    background-color: #ebac1a;
 }
 
 .container {
@@ -27,6 +27,14 @@ ul{
     padding-left: 20px;
     padding-right: 20px;
     color: #000f;
+}
+
+.dark {
+    padding: 15px;
+    background: #35424a;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 header {
@@ -134,4 +142,15 @@ footer {
     color: #ebac1a;
     background-color: #000f;
     text-align: center;
+}
+
+article#main-col {
+    float: left;
+    width: 65%;
+}
+
+aside#sidebar {
+    float: right;
+    width: 30%;
+    margin-top: 10px;
 }
