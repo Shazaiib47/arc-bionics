@@ -127,3 +127,11 @@ header a:hover {
 #image-boxes .box img {
     width: 70px;
 }
+
+footer {
+    padding: 20px;
+    margin-top: 20px;
+    color: #ebac1a;
+    background-color: #000f;
+    text-align: center;
+}
