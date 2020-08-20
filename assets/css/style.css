@@ -178,6 +178,12 @@ aside#siderbar .quote input, aside#sidebar .quote textarea {
     padding: 5px;
 }
 
+img {
+    vertical-align: middle;
+    border-style: none;
+    padding-left: 100px;
+}
+
 @media(max-width: 768px) {
     header #branding,
     header nav,
