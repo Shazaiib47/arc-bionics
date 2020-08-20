@@ -112,3 +112,18 @@ header a:hover {
     height: 39px;
     width: 250px;
 }
+
+#image-boxes {
+    margin-top: 20px
+}
+
+#image-boxes .box {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+}
+
+#image-boxes .box img {
+    width: 70px;
+}
