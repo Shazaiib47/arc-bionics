@@ -20,7 +20,7 @@ ul{
     padding: 0;
 }
 
-#button_1 {
+.button-1 {
     height: 38px;
     background: #ebac1a;
     border: none;
@@ -109,6 +109,6 @@ header a:hover {
 
 #newsletter input[type="email"]{
     padding:4px;
-    height: 25px;
+    height: 39px;
     width: 250px;
 }
