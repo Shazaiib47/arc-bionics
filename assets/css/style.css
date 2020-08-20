@@ -83,7 +83,7 @@ header a:hover {
 
 #main-showcase {
     min-height: 500px;
-    background:url('/assets/images/pexels-engineering.jpg') no-repeat 0 -500px;
+    background-image: url("../images/pexels-engineering.jpg");
     text-align: center;
     color: #ebac1a;
     background-size: cover;
