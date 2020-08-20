@@ -94,16 +94,19 @@ header a:hover {
     margin-top: 150px;
     font-size: 55px;
     margin-bottom: 10px;
+    color: #ebac1a;
 }
 
 #main-showcase p{
     font-size: 20px;
+    margin-top: 25%;
+    margin-bottom: 1rem;
 }
 
 #newsletter {
     padding: 15px;
     color: #ffffff;
-    background: #35424a;
+    background: #000f;
 }
 
 #newsletter h1 {
@@ -151,6 +154,12 @@ footer {
     color: #ebac1a;
     background-color: #000f;
     text-align: center;
+}
+
+.fa {
+    margin: 20px;
+    font-size: 50px;
+    color: #ebac1a;
 }
 
 article#main-col {
